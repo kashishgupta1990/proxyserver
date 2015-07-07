@@ -1,0 +1,33 @@
+{
+  "name": "proxyserver",
+  "version": "0.1.0",
+  "bin": {
+    "proxyserver": "app.js"
+  },
+  "description": "Simple proxy server",
+  "dependencies": {
+    "cli-color": "^1.0.0",
+    "http-proxy": "^1.11.1",
+    "optimist": "^0.6.1"
+  },
+  "keywords": [
+    "proxy-server",
+    "proxy",
+    "url redirect"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kashishgupta1990/proxyserver.git"
+  },
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "kashishgupta1990",
+      "email": "kashishgupta1990@yahoo.com"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/kashishgupta1990/proxyserver/issues"
+  },
+  "homepage": "https://github.com/kashishgupta1990/proxyserver"
+}
