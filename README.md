@@ -1,6 +1,8 @@
 proxyserver
 =======
 
+`npm install -g proxyserver`
+
 `proxyserver` is an HTTP programmable proxying command line library that supports
 websockets. It is suitable for implementing components such as
 proxies.

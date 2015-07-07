@@ -1,6 +1,6 @@
 {
   "name": "proxyserver",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "bin": {
     "proxyserver": "app.js"
   },
